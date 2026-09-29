@@ -1,34 +1,39 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mughees Code</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mughees-code&label=Profile%20views&color=0e75b6&style=flat" alt="mughees-code" /> </p>
+# Hey, I'm Mughees Muavia!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mughees-code" alt="mughees-code" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=I'm%20Still%20learning%20;Html%20%26%20Css;Based%20in%20Karachi%20%2Cpakistan)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on After Life **https://github.com/mughees-code/Assignment-No-11/blob/main/Youtube.html**
+</div>
 
-- 🌱 I’m currently learning **Html Css**
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+Learning today, building tomorrow
 
-- 💬 Ask me about **Learning html & css**
+- 🏢 Working in **Karachi ,pakistan**
+- 🌱 Currently learning **Html & Css**
+- 💬 Ask me about **HTML, CSS & my coding journey**
+- ⚡ I'm an Editor 
 
-- 📫 How to reach me **mugheesmuavia4@gmail.com**
+## 🛠️ Tech stats
 
-- ⚡ Fun fact **I'm an Editor**
+## 📊 GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/itx_mughee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx_mughee_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mughees_.786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mughees_.786" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mughees-code&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mughees-code&show_icons=true&locale=en&layout=compact" alt="mughees-code" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mughees-code&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mughees-code&show_icons=true&locale=en" alt="mughees-code" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mughees-code&" alt="mughees-code" /></p>
+## 🔗 Connect with me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mugheesmuavia4@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mughees-code)
+
+</div>
+
